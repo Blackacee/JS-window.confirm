@@ -1,2 +1,3 @@
 # JS-window.confirm
-Displays modal display 
+
+result = window.confirm(text);
